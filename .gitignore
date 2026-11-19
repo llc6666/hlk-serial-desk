@@ -1,0 +1,12 @@
+/build/
+/dist/
+/Sessions/
+*.exe
+*.pdb
+*.user
+*.raw
+*.log
+rx*.txt
+SHA256SUMS.txt
+.env
+/.vs/

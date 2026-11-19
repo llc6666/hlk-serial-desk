@@ -1,0 +1,9 @@
+[合成演示 / Synthetic demo. No hardware was connected.]
+U-Boot 1.1.3 (demo)
+Please choose the operation:
+[demo] Boot from flash
+Linux version 3.10.14 (demo)
+[    0.000000] Kernel command line: console=ttyS1,57600n8
+[    4.100000] OpenWrt userspace starting (demo)
+procd: - init complete -
+/#
